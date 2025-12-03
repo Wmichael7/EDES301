@@ -1,6 +1,7 @@
 # PocketLab Data Logger
 
 A data logging application for the PocketBeagle that reads environmental sensors and logs data to CSV files.
+Hackster.io: https://www.hackster.io/mlw10/pocketlab-e30562
 
 ## Features
 
