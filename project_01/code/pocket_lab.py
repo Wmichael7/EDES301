@@ -71,7 +71,7 @@ CFG = {
     "led": "P2_08",
     "ldr_ain": "P1_19",
     "dht_type": 11,
-    "log_dir": "/var/lib/pocketlab/logs",
+    "log_dir": "./logs",
     "sample_interval_s": 10,
 }
 
